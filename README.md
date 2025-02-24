@@ -1,2 +1,2 @@
-# pranjal-iti.page
-pranjal
+# pranjaliti.page
+pranjal manik
